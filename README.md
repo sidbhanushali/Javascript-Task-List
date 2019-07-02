@@ -3,3 +3,6 @@ I built a web based task list app using vanilla javascript
 
 the front end was bult  using Materialize CSS library
 the tasks are saved to local storage and can be cleared individually or all together
+
+you can search and filter for your tasks
+
